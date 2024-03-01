@@ -1,8 +1,6 @@
-Web Development Project Solution
+Web Development Project
 
-DESCRIPTION: This is the solution to the e-commerce website 
-
-Extract the files from project_solution.zip.
+DESCRIPTION:The e-commerce website 
 	
 	
 	project_solution/
